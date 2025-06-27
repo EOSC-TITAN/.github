@@ -1,4 +1,4 @@
-# EOSC TITAN mirror repository
+# EOSC TITAN software repository
 
 ## About EOSC TITAN
 TITAN is a [36-month project](https://cordis.europa.eu/project/id/101129822) that proposes to develop secure and trustworthy confidential data processing and sharing capabilities, and demonstrate them in the EOSC ecosystem. Read more on the [project's website](https://titan-eosc.eu/). 
@@ -10,6 +10,6 @@ To promote community adoption of TITAN’s open-source software artefacts, the s
 
 ## About this repository
 
-This repository contains **mirrors** to the repositories where tools developed within the TITAN project.
+This repository contains **mirrors** to the repositories where tools developed partly or in full within the TITAN project.
 Check source repositories for the latest versions of the respective software tools.
 
